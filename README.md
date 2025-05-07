@@ -1,6 +1,6 @@
 # fishcrew-Connect
-# And application that connect Boat owners to skilled fishermen.
-PROPOSED FEATURES
+An application that connect Boat owners to skilled fishermen.
+#PROPOSED FEATURES
 Core Features:
 User Management:
 1.Boat owners can post job an listings, browse available workers, and rate them after the job.
