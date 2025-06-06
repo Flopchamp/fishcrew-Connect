@@ -15,7 +15,4 @@ Notifications & Messaging:
 1.Real-time job alerts for workers when relevant opportunities arise.
 2.In-app messaging for communication between boat owners and workers.
 
-# Figma link 
-https://www.figma.com/design/2mpPRYssQTgEoogjerWivB/Fishcrew?node-id=0-1&t=JNSGGhbz9EZIIM8c-1
-You can follow along on the design progress for my application.
 
